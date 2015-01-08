@@ -1,4 +1,4 @@
 Version 1.0
 
 # VC - Virtual Classroom
-Travail Long - Socrative
+Travail Long - VC
